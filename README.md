@@ -26,8 +26,8 @@ A modern, feature-rich movie search application built with React. Discover movie
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/movie-app.git
-cd movie-app
+git clone https://github.com/yourusername/use-popcorn.git
+cd use-popcorn
 Install dependencies
 
 bash
@@ -71,7 +71,7 @@ Escape - Close movie details modal (if implemented)
 
 📁 Project Structure
 text
-movie-app/
+use-popcorn/
 ├── src/
 │   ├── components/
 │   │   ├── StarRating.js      # Reusable star rating component
@@ -188,13 +188,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📧 Contact
 Your Name - @yourtwitter - your.email@example.com
 
-Project Link: https://github.com/yourusername/movie-app
+Project Link: https://github.com/yourusername/use-popcorn
 
 ⚡ Quick Start Commands
 bash
 # Clone and install
-git clone https://github.com/yourusername/movie-app.git
-cd movie-app
+git clone https://github.com/yourusername/use-popcorn.git
+cd use-popcorn
 npm install
 
 # Create .env file
