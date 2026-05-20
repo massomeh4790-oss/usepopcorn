@@ -1,4 +1,4 @@
-# 🎬 Movie App
+# 🎬 UsePopcorn
 
 A modern, feature-rich movie search application built with React. Discover movies, save your favorites, and rate them - all with a beautiful, responsive interface.
 
